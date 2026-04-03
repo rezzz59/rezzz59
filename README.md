@@ -24,11 +24,13 @@ I am a passionate explorer in the field of **Machine Learning** with a deep inte
 
 ### 📊 My GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&count_private=true" alt="rezzz59 Stats" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="rezzz59 Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="Top Languages" height="170" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rezzz59&theme=tokyonight&column=7" alt="rezzz59 Trophies" />
+</p>
 ---
 
 ### 📫 Connect with Me
