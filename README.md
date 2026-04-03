@@ -1,11 +1,11 @@
 # Hi there, I'm rezzz59! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Machine%20Learning%20Explorer&fontSize=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Machine+Learning+Explorer;Computer+Vision+Enthusiast;Python+Developer" alt="Typing SVG" />
 </p>
 
 ### 🤖 About Me
-I am a passionate explorer in the field of **Machine Learning** with a deep interest in **Computer Vision**. Currently, I'm diving deep into how machines "see" and process visual data.
+I am a passionate explorer in the field of **Machine Learning** with a deep interest in **Computer Vision**. Currently, I'm diving deep into how machines "see" and process visual data to solve real-world problems.
 
 - 🔭 **Learning:** Computer Vision, Python, TensorFlow, and Keras.
 - 💻 **Tools:** Daily driver on Google Colab for training models.
@@ -24,13 +24,10 @@ I am a passionate explorer in the field of **Machine Learning** with a deep inte
 
 ### 📊 My GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="rezzz59 Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight" alt="rezzz59 Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rezzz59&theme=tokyonight&column=7" alt="rezzz59 Trophies" />
-</p>
 ---
 
 ### 📫 Connect with Me
