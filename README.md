@@ -25,6 +25,14 @@ I am a passionate explorer in the field of **Machine Learning** with a deep inte
 
 ---
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b2z67s6ujx43apwzoapxpta5y4&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&interchange=false&profanity=false&bar_color=027dbb&bar_color_cover=false">
+  </a>
+</p>
+
+---
+
 ### GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&hide_border=false&border_color=00BFFF&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="165" />
