@@ -1,14 +1,14 @@
 # Hi there, I'm rezzz59! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Machine%20Learning%20Explorer&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Machine%20Learning%20Explorer&fontSize=50" />
 </p>
 
 ### 🤖 About Me
-I am a passionate explorer in the field of **Machine Learning** with a deep interest in **Computer Vision**. Currently, I'm diving deep into how machines "see" and process visual data to solve real-world problems.
+I am a passionate explorer in the field of **Machine Learning** with a deep interest in **Computer Vision**. Currently, I'm diving deep into how machines "see" and process visual data.
 
-- 🔭 I’m currently learning: **Computer Vision & Deep Learning**
-- ⚡ Fun fact: I love experimenting with models directly on **Google Colab**!
+- 🔭 **Learning:** Computer Vision, Python, TensorFlow, and Keras.
+- 💻 **Tools:** Daily driver on Google Colab for training models.
 
 ---
 
@@ -22,17 +22,11 @@ I am a passionate explorer in the field of **Machine Learning** with a deep inte
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&count_private=true" alt="rezzz59 GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="150" />
-</p>
-
----
-
-### 🐍 The Contribution Snake
-<p align="center">
-  <img src="https://github.com/rezzz59/rezzz59/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&count_private=true" alt="rezzz59 Stats" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
 </p>
 
 ---
