@@ -39,10 +39,10 @@ I am a passionate explorer in the field of **Machine Learning** with a deep inte
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-rifa-i-230a2421b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/rifafai9" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
