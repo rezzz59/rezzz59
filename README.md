@@ -17,7 +17,7 @@ I am a passionate explorer in the field of **Machine Learning** with a deep inte
 
 ---
 
-###  GitHub Analytics (Glow Edition)
+###  GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&hide_border=false&border_color=00BFFF&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide_border=false&border_color=00BFFF&bg_color=0D1117&title_color=00BFFF&hide=html,css" height="165" />
