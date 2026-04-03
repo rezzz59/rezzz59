@@ -1,6 +1,6 @@
 
 
-### 🤖 About Me
+### About Me
 I am a passionate explorer in the field of **Machine Learning** with a deep interest in **Computer Vision**. I focus on how machines "see" and process visual data to solve complex real-world problems.
 
 <p align="center">
@@ -10,14 +10,14 @@ I am a passionate explorer in the field of **Machine Learning** with a deep inte
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,pyside,git,github,googlecloud,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics (Glow Edition)
+###  GitHub Analytics (Glow Edition)
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&hide_border=false&border_color=00BFFF&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide_border=false&border_color=00BFFF&bg_color=0D1117&title_color=00BFFF&hide=html,css" height="165" />
@@ -25,14 +25,14 @@ I am a passionate explorer in the field of **Machine Learning** with a deep inte
 
 ---
 
-### 🐍 The Contribution Snake
+###  The Contribution Snake
 <p align="center">
   <img src="https://github.com/rezzz59/rezzz59/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-rifa-i-230a2421b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
