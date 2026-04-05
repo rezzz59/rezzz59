@@ -13,7 +13,6 @@ I am a passionate explorer in the field of **Machine Learning** with a deep inte
 
 <p align="center">
   🔭 <b>Learning:</b> Computer Vision, TensorFlow & Keras <br>
-  💻 <b>Tools:</b> Expert at Google Colab for Model Training
 </p>
 
 ---
