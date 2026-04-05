@@ -8,11 +8,16 @@
 
 ---
 
-### About Me
-I am a passionate explorer in the field of **Machine Learning** with a deep interest in **Computer Vision**. I focus on how machines "see" and process visual data to solve complex real-world problems.
+### 🤖 About Me
+I'm a 4th-semester IT student at **UIN Antasari Banjarmasin** and an aspiring **AI Engineer**. Currently, I'm deep-diving into the world of Artificial Intelligence through the **Pijar in collaboration with IBM SkillsBuild** independent study program.
+
+- **Focus Area:** Developing AI solutions for **Sustainable Agriculture**.
+- **Leadership:** Serving as Head of Research & Technology at **HMTI**.
+- **Current Mission:** Bridging the gap between Computer Vision and real-world agricultural problems.
 
 <p align="center">
-  🔭 <b>Learning:</b> Computer Vision, TensorFlow & Keras <br>
+  🔭 <b>Currently Learning:</b> CNNs, MLOps, and Model Deployment <br>
+  💡 <b>Vibe:</b> Training models by day, analyzing <i>Death Note</i> plots or <i>Taylor Swift</i> lyrics by night.
 </p>
 
 ---
