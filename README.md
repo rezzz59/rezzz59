@@ -9,12 +9,12 @@
 ---
 
 ### About Me
-I am a 4th-semester Information Technology student at **UIN Antasari Banjarmasin**, currently pursuing an **AI Engineer** specialization through the **Pijar in collaboration with IBM SkillsBuild** independent study program.
+I am a 4th-semester Information Technology student at **UIN Antasari Banjarmasin**, currently pursuing an **AI Engineer** specialization through the **Pijak in collaboration with IBM SkillsBuild** independent study program.
 
 My primary research and development focus lies at the intersection of **Deep Learning** and **Sustainable Agriculture**, specifically in utilizing **Computer Vision** to address real-world agricultural challenges.
 
 * **Leadership:** Head of the Research and Technology Department at **HMTI**.
-* **Specialization:** Machine Learning Operations (MLOps) and Computer Vision.
+* **Specialization:** Machine Learning and Computer Vision.
 * **Current Focus:** Training and deploying Convolutional Neural Network (CNN) models for agricultural diagnostic systems.
 
 <p align="center">
