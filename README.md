@@ -8,17 +8,21 @@
 
 ---
 
-### 🤖 About Me
-I'm a 4th-semester IT student at **UIN Antasari Banjarmasin** and an aspiring **AI Engineer**. Currently, I'm deep-diving into the world of Artificial Intelligence through the **Pijar in collaboration with IBM SkillsBuild** independent study program.
+### About Me
+I am a 4th-semester Information Technology student at **UIN Antasari Banjarmasin**, currently pursuing an **AI Engineer** specialization through the **Pijar in collaboration with IBM SkillsBuild** independent study program.
 
-- **Focus Area:** Developing AI solutions for **Sustainable Agriculture**.
-- **Leadership:** Serving as Head of Research & Technology at **HMTI**.
-- **Current Mission:** Bridging the gap between Computer Vision and real-world agricultural problems.
+My primary research and development focus lies at the intersection of **Deep Learning** and **Sustainable Agriculture**, specifically in utilizing **Computer Vision** to address real-world agricultural challenges.
+
+* **Leadership:** Head of the Research and Technology Department at **HMTI**.
+* **Specialization:** Machine Learning Operations (MLOps) and Computer Vision.
+* **Current Focus:** Training and deploying Convolutional Neural Network (CNN) models for agricultural diagnostic systems.
 
 <p align="center">
-  🔭 <b>Currently Learning:</b> CNNs, MLOps, and Model Deployment <br>
-  💡 <b>Vibe:</b> Training models by day, analyzing <i>Death Note</i> plots or <i>Taylor Swift</i> lyrics by night.
+  <b>Technical Journey:</b> Advanced CNNs and Model Deployment Infrastructure <br>
+  <b>Core Tools:</b> Python, TensorFlow, and Keras
 </p>
+
+---
 
 ---
 
