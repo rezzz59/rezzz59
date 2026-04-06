@@ -71,3 +71,12 @@ My primary research and development focus lies at the intersection of **Deep Lea
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rezzz59&label=Profile%20Views&color=00BFFF&style=flat-square" />
 </p>
+
+### Professional Recognition
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-Collaborator-181717?style=flat-square&logo=github" alt="GitHub Collaborator" />
+  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Specialist-052FAD?style=flat-square&logo=ibm" alt="IBM AI" />
+  <img src="https://img.shields.io/badge/HMTI-Research%20%26%20Tech%20Lead-0077B5?style=flat-square" alt="HMTI Lead" />
+</p>
+
+---
