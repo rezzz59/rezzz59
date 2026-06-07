@@ -15,18 +15,18 @@ My primary research and development focus lies at the intersection of **Deep Lea
 
 * **Leadership:** Head of the Research and Technology Department at **HMTI**.
 * **Specialization:** Machine Learning, Computer Vision, and MLOps.
-* **Current Focus:** Training, tracking, and deploying Convolutional Neural Network (CNN) models for agricultural diagnostic systems.
+* **Current Focus:** Training, tracking, deploying, and monitoring Convolutional Neural Network (CNN) models for agricultural diagnostic systems.
 
 <p align="center">
-  <b>Technical Journey:</b> Advanced CNNs, Experiment Tracking, and Model Deployment Infrastructure <br>
-  <b>Core Tools:</b> Python, TensorFlow, Keras, MLflow, and Docker
+  <b>Technical Journey:</b> Advanced CNNs, Model Deployment, and Full-Stack MLOps Monitoring <br>
+  <b>Core Tools:</b> Python, TensorFlow, MLflow, Docker, Prometheus, and Grafana
 </p>
 
 ---
 
 ### Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,pyside,mlflow,docker,git,github,googlecloud,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,pyside,mlflow,docker,prometheus,grafana,git,github,googlecloud,vscode" />
 </p>
 
 ---
