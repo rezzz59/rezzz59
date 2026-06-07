@@ -14,21 +14,19 @@ I am a 4th-semester Information Technology student at **UIN Antasari Banjarmasin
 My primary research and development focus lies at the intersection of **Deep Learning** and **Sustainable Agriculture**, specifically in utilizing **Computer Vision** to address real-world agricultural challenges.
 
 * **Leadership:** Head of the Research and Technology Department at **HMTI**.
-* **Specialization:** Machine Learning and Computer Vision.
-* **Current Focus:** Training and deploying Convolutional Neural Network (CNN) models for agricultural diagnostic systems.
+* **Specialization:** Machine Learning, Computer Vision, and MLOps.
+* **Current Focus:** Training, tracking, and deploying Convolutional Neural Network (CNN) models for agricultural diagnostic systems.
 
 <p align="center">
-  <b>Technical Journey:</b> Advanced CNNs and Model Deployment Infrastructure <br>
-  <b>Core Tools:</b> Python, TensorFlow, and Keras
+  <b>Technical Journey:</b> Advanced CNNs, Experiment Tracking, and Model Deployment Infrastructure <br>
+  <b>Core Tools:</b> Python, TensorFlow, Keras, MLflow, and Docker
 </p>
-
----
 
 ---
 
 ### Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,pyside,git,github,googlecloud,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,pyside,mlflow,docker,git,github,googlecloud,vscode" />
 </p>
 
 ---
@@ -80,4 +78,3 @@ My primary research and development focus lies at the intersection of **Deep Lea
 </p>
 
 ---
-
