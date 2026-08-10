@@ -58,10 +58,10 @@ Digital village service portal — citizen services, ticketing & news.
 
 ---
 
-### GitHub Summary
+### Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezzz59&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezzz59&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=7B2FF7&area=true" alt="Contribution Graph" />
 </p>
 
 ---
