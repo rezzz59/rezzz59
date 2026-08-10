@@ -11,20 +11,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Student-UIN%20Antasari%20Banjarmasin-0077B5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pijak%20%26%20IBM%20SkillsBuild-AI%20Engineer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HMTI-Research%20%26%20Tech%20Lead-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-2E3440?style=for-the-badge" />
 </p>
 
 ---
 
 ### About Me
 
-4th-semester Information Technology student at **UIN Antasari Banjarmasin**, specializing in **AI Engineering** through the *Pijak collaboration with IBM SkillsBuild* independent study program.
+AI developer focused on **Deep Learning** and **Sustainable Agriculture** — using **Computer Vision** to solve real-world agricultural problems.
 
-My focus sits at the intersection of **Deep Learning** and **Sustainable Agriculture** — using **Computer Vision** to solve real-world agricultural problems.
-
-- **Leadership:** Head of Research & Technology Department at **HMTI**
 - **Specialization:** Machine Learning, Computer Vision, MLOps
 - **Current Focus:** Training, tracking, deploying, and monitoring CNN models for agricultural diagnostic systems
 
@@ -48,23 +45,13 @@ My focus sits at the intersection of **Deep Learning** and **Sustainable Agricul
 
 ### Featured Projects
 
-**[Si-Manggis](https://github.com/rezzz59/Si-Manggis)**  
-Digital village service portal for Desa Guntung Manggis — citizen services, ticketing & news.  
-`TypeScript` `Web App` `Desa Digital`
-
 **[BalesinAI](https://github.com/rezzz59/BalesinAI)**  
 AI agent (LangGraph) for WhatsApp auto-reply — intent classification with Gemini, catalog lookup, owner fallback.  
 `Python` `LangGraph` `Gemini API`
 
----
-
-### Sertifikasi & Achievement
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Engineering-blueviolet?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pijak%20x%20IBM%20SkillsBuild-Independent%20Study-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HMTI-Research%20%26%20Tech%20Lead-2E3440?style=for-the-badge" />
-</p>
+**[Si-Manggis](https://github.com/rezzz59/Si-Manggis)**  
+Digital village service portal — citizen services, ticketing & news.  
+`TypeScript` `Web App`
 
 ---
 
