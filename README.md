@@ -48,21 +48,13 @@ My focus sits at the intersection of **Deep Learning** and **Sustainable Agricul
 
 ### 📌 Featured Projects
 
-**🌱 [PlantVillage-Disease-Detection](https://github.com/rezzz59/PlantVillage-Disease-Detection)**  
-CNN-based detection of plant leaf diseases.  
-`Python` `TensorFlow` `Computer Vision` `Deep Learning`
-
-**🚗 [Vehicle_classification](https://github.com/rezzz59/Vehicle_classification)**  
-Vehicle classifier via MobileNetV2 transfer learning — 2,933 images, 17 classes.  
-`Python` `TensorFlow` `Transfer Learning`
-
-**⚙️ [iris-production-mlops](https://github.com/rezzz59/iris-production-mlops)**  
-End-to-end MLOps pipeline: train, track, deploy & monitor.  
-`Python` `MLflow` `Docker` `MLOps`
+**🏘️ [Si-Manggis](https://github.com/rezzz59/Si-Manggis)**  
+Digital village service portal for Desa Guntung Manggis — citizen services, ticketing & news.  
+`TypeScript` `Web App` `Desa Digital`
 
 **🤖 [BalesinAI](https://github.com/rezzz59/BalesinAI)**  
-AI-powered assistant application.  
-`Python` `AI` `Application`
+AI agent (LangGraph) for WhatsApp auto-reply — intent classification with Gemini, catalog lookup, owner fallback.  
+`Python` `LangGraph` `Gemini API`
 
 ---
 
