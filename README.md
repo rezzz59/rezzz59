@@ -18,19 +18,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 4th-semester Information Technology student at **UIN Antasari Banjarmasin**, specializing in **AI Engineering** through the *Pijak collaboration with IBM SkillsBuild* independent study program.
 
 My focus sits at the intersection of **Deep Learning** and **Sustainable Agriculture** — using **Computer Vision** to solve real-world agricultural problems.
 
-- 🏆 **Leadership:** Head of Research & Technology Department at **HMTI**
-- 🎯 **Specialization:** Machine Learning, Computer Vision, MLOps
-- 🚀 **Current Focus:** Training, tracking, deploying, and monitoring CNN models for agricultural diagnostic systems
+- **Leadership:** Head of Research & Technology Department at **HMTI**
+- **Specialization:** Machine Learning, Computer Vision, MLOps
+- **Current Focus:** Training, tracking, deploying, and monitoring CNN models for agricultural diagnostic systems
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,pyside,mlflow,docker,prometheus,grafana,git,github,googlecloud,vscode" />
@@ -38,27 +38,27 @@ My focus sits at the intersection of **Deep Learning** and **Sustainable Agricul
 
 ---
 
-### 🚀 Currently Doing
+### Currently Doing
 
-- 🔭 **Building:** CNN-based plant disease detection for agricultural diagnostics
-- 🌱 **Learning:** Full-stack MLOps — MLflow, Docker, Prometheus & Grafana
-- 🎯 **Next Goal:** Deploying a production-ready diagnostic API
+- **Building:** CNN-based plant disease detection for agricultural diagnostics
+- **Learning:** Full-stack MLOps — MLflow, Docker, Prometheus & Grafana
+- **Next Goal:** Deploying a production-ready diagnostic API
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-**🏘️ [Si-Manggis](https://github.com/rezzz59/Si-Manggis)**  
+**[Si-Manggis](https://github.com/rezzz59/Si-Manggis)**  
 Digital village service portal for Desa Guntung Manggis — citizen services, ticketing & news.  
 `TypeScript` `Web App` `Desa Digital`
 
-**🤖 [BalesinAI](https://github.com/rezzz59/BalesinAI)**  
+**[BalesinAI](https://github.com/rezzz59/BalesinAI)**  
 AI agent (LangGraph) for WhatsApp auto-reply — intent classification with Gemini, catalog lookup, owner fallback.  
 `Python` `LangGraph` `Gemini API`
 
 ---
 
-### 📜 Sertifikasi & Achievement
+### Sertifikasi & Achievement
 
 <p align="center">
   <img src="https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Engineering-blueviolet?style=for-the-badge&logo=ibm&logoColor=white" />
@@ -68,7 +68,15 @@ AI agent (LangGraph) for WhatsApp auto-reply — intent classification with Gemi
 
 ---
 
-### 🐍 Contributions
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezzz59&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=7B2FF7&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rezzz59/rezzz59/output/github-contribution-grid-snake.svg" alt="Snake Game" />
@@ -76,7 +84,7 @@ AI agent (LangGraph) for WhatsApp auto-reply — intent classification with Gemi
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-rifa-i-230a2421b/" target="_blank">
