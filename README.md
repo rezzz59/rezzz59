@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B2FF7&height=140&section=header" alt="banner" />
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=80&lines=HI%2C+I%27M+AHMAD+RIFA%27I;MACHINE+LEARNING+EXPLORER;DEEP+LEARNING+%26+CV+ENTHUSIAST" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&height=90&lines=HI%2C+I%27M+AHMAD+RIFA%27I;MACHINE+LEARNING+EXPLORER;DEEP+LEARNING+%26+CV+ENTHUSIAST" alt="Header" />
 </p>
 
 <p align="center">
@@ -23,7 +27,6 @@ My focus sits at the intersection of **Deep Learning** and **Sustainable Agricul
 - 🏆 **Leadership:** Head of Research & Technology Department at **HMTI**
 - 🎯 **Specialization:** Machine Learning, Computer Vision, MLOps
 - 🚀 **Current Focus:** Training, tracking, deploying, and monitoring CNN models for agricultural diagnostic systems
-- 🛠️ **Journey:** Advanced CNNs → Model Deployment → Full-Stack MLOps Monitoring
 
 ---
 
@@ -35,23 +38,40 @@ My focus sits at the intersection of **Deep Learning** and **Sustainable Agricul
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Currently Doing
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&hide=html,css" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezzz59&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
-</p>
+- 🔭 **Building:** CNN-based plant disease detection for agricultural diagnostics
+- 🌱 **Learning:** Full-stack MLOps — MLflow, Docker, Prometheus & Grafana
+- 🎯 **Next Goal:** Deploying a production-ready diagnostic API
 
 ---
 
-### 🎧 Now Vibing
+### 📌 Featured Projects
+
+**🌱 [PlantVillage-Disease-Detection](https://github.com/rezzz59/PlantVillage-Disease-Detection)**  
+CNN-based detection of plant leaf diseases.  
+`Python` `TensorFlow` `Computer Vision` `Deep Learning`
+
+**🚗 [Vehicle_classification](https://github.com/rezzz59/Vehicle_classification)**  
+Vehicle classifier via MobileNetV2 transfer learning — 2,933 images, 17 classes.  
+`Python` `TensorFlow` `Transfer Learning`
+
+**⚙️ [iris-production-mlops](https://github.com/rezzz59/iris-production-mlops)**  
+End-to-end MLOps pipeline: train, track, deploy & monitor.  
+`Python` `MLflow` `Docker` `MLOps`
+
+**🤖 [BalesinAI](https://github.com/rezzz59/BalesinAI)**  
+AI-powered assistant application.  
+`Python` `AI` `Application`
+
+---
+
+### 📜 Sertifikasi & Achievement
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b2z67s6ujx43apwzoapxpta5y4&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&profanity=false&bar_color=00BFFF&bar_color_cover=false" alt="Spotify" />
+  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Engineering-blueviolet?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pijak%20x%20IBM%20SkillsBuild-Independent%20Study-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HMTI-Research%20%26%20Tech%20Lead-2E3440?style=for-the-badge" />
 </p>
 
 ---
@@ -83,3 +103,7 @@ My focus sits at the intersection of **Deep Learning** and **Sustainable Agricul
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rezzz59&label=Profile%20Views&color=00BFFF&style=flat-square" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B2FF7&height=100&section=footer" alt="footer" />
+</div>
