@@ -1,66 +1,80 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0077B5&center=true&vCenter=true&width=600&height=100&lines=HI+I'M+AHMAD+RIFA'I;MACHINE+LEARNING+EXPLORER" alt="Header Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=80&lines=HI%2C+I%27M+AHMAD+RIFA%27I;MACHINE+LEARNING+EXPLORER;DEEP+LEARNING+%26+CV+ENTHUSIAST" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Exploring+the+Future+of+AI;Learning+CV,+TensorFlow,+and+Keras" alt="Typing SVG Subtitle" />
+  <i>"Training CNN models to make agriculture smarter — one image at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IT%20Student-UIN%20Antasari%20Banjarmasin-0077B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pijak%20%26%20IBM%20SkillsBuild-AI%20Engineer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HMTI-Research%20%26%20Tech%20Lead-00BFFF?style=for-the-badge" />
 </p>
 
 ---
 
-### About Me
-I am a 4th-semester Information Technology student at **UIN Antasari Banjarmasin**, currently pursuing an **AI Engineer** specialization through the **Pijak in collaboration with IBM SkillsBuild** independent study program.
+### 👨‍💻 About Me
 
-My primary research and development focus lies at the intersection of **Deep Learning** and **Sustainable Agriculture**, specifically in utilizing **Computer Vision** to address real-world agricultural challenges.
+4th-semester Information Technology student at **UIN Antasari Banjarmasin**, specializing in **AI Engineering** through the *Pijak collaboration with IBM SkillsBuild* independent study program.
 
-* **Leadership:** Head of the Research and Technology Department at **HMTI**.
-* **Specialization:** Machine Learning, Computer Vision, and MLOps.
-* **Current Focus:** Training, tracking, deploying, and monitoring Convolutional Neural Network (CNN) models for agricultural diagnostic systems.
+My focus sits at the intersection of **Deep Learning** and **Sustainable Agriculture** — using **Computer Vision** to solve real-world agricultural problems.
 
-<p align="center">
-  <b>Technical Journey:</b> Advanced CNNs, Model Deployment, and Full-Stack MLOps Monitoring <br>
-  <b>Core Tools:</b> Python, TensorFlow, MLflow, Docker, Prometheus, and Grafana
-</p>
+- 🏆 **Leadership:** Head of Research & Technology Department at **HMTI**
+- 🎯 **Specialization:** Machine Learning, Computer Vision, MLOps
+- 🚀 **Current Focus:** Training, tracking, deploying, and monitoring CNN models for agricultural diagnostic systems
+- 🛠️ **Journey:** Advanced CNNs → Model Deployment → Full-Stack MLOps Monitoring
 
 ---
 
-### Tech Stack & Tools
+### 🧰 Tech Stack & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,pyside,mlflow,docker,prometheus,grafana,git,github,googlecloud,vscode" />
 </p>
 
 ---
 
+### 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b2z67s6ujx43apwzoapxpta5y4&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&interchange=false&profanity=false&bar_color=027dbb&bar_color_cover=false">
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&hide=html,css" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezzz59&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
 </p>
 
 ---
 
-### GitHub Analytics
+### 🎧 Now Vibing
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rezzz59&show_icons=true&theme=tokyonight&hide_border=false&border_color=00BFFF&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rezzz59&layout=compact&theme=tokyonight&hide_border=false&border_color=00BFFF&bg_color=0D1117&title_color=00BFFF&hide=html,css" height="165" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b2z67s6ujx43apwzoapxpta5y4&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&profanity=false&bar_color=00BFFF&bar_color_cover=false" alt="Spotify" />
 </p>
 
 ---
 
-### The Contribution Snake
+### 🐍 Contributions
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rezzz59/rezzz59/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 ---
 
-### Connect with Me
+### 🤝 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-rifa-i-230a2421b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/rifafai9" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ahmadrifai.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -69,12 +83,3 @@ My primary research and development focus lies at the intersection of **Deep Lea
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rezzz59&label=Profile%20Views&color=00BFFF&style=flat-square" />
 </p>
-
-### Professional Recognition
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-Collaborator-181717?style=flat-square&logo=github" alt="GitHub Collaborator" />
-  <img src="https://img.shields.io/badge/Pijak%20Collaboration%20with%20IBM%20SkillsBuild-AI%20Specialist-blueviolet?style=flat-square&logo=ibm&labelColor=FF69B4" alt="Pijak IBM Badge" />
-  <img src="https://img.shields.io/badge/HMTI-Research%20%26%20Tech%20Lead-0077B5?style=flat-square" alt="HMTI Lead" />
-</p>
-
----
